@@ -62,12 +62,12 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
+      image: 'https://www.cxstudios.xyz/custom/templates/cxUI/uploads/cxnewlogo-4.png',
       navbar: {
-        title: 'My Site',
+        title: 'cxSTUDIOS Wiki',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          src: 'https://www.cxstudios.xyz/custom/templates/cxUI/uploads/cxnewlogo-4.png',
         },
         items: [
           {
@@ -76,9 +76,10 @@ const config = {
             position: 'left',
             label: 'Tutorial',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          {to: 'https://cxstudios.xyz', label: 'Portal', position: 'left'},
+          {to: 'https://discord.gg/creativmap', label: 'Discord', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/bijju089',
             label: 'GitHub',
             position: 'right',
           },
