@@ -118,8 +118,12 @@ const config = {
             title: 'More',
             items: [
               {
-                label: 'Blog',
-                to: '/blog',
+                label: 'Get all Setups',
+                to: 'https://cxstudios.xyz/premium',
+              },
+                            {
+                label: 'Partners',
+                to: 'https://cxstudios.xyz/partners',
               },
               {
                 label: 'GitHub',
@@ -129,6 +133,9 @@ const config = {
           },
         ],
         copyright: `Copyright © ${new Date().getFullYear()} cxSTUDIOS, Inc. Built with Docusaurus.`,
+      },
+      "colorMode": {
+        "defaultMode": "dark",
       },
       prism: {
         theme: lightCodeTheme,
