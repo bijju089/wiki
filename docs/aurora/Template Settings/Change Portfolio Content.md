@@ -1,4 +1,3 @@
-
 ---
 sidebar_position: 2
 ---
@@ -25,7 +24,8 @@ This page will tell you how to change Portfolio content.
                </div>
            </div>
 ```
-You can create multiple cards like this. Set "SET IMAGE URL HERE" from example shown to any url you want. It must have .png or .jpeg at the end!
+
+- You can create multiple cards like this. Set "SET IMAGE URL HERE" from example shown to any url you want. It must have .png or .jpeg at the end!
 
 ### Community Support
 Feel free to join our [discord](https://discord.gg/creativmap) server for template support.
