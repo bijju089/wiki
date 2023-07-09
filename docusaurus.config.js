@@ -92,8 +92,8 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/intro',
+                label: 'Aurora Nl2',
+                to: '/docs/aurora/intro',
               },
             ],
           },
