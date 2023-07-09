@@ -12,7 +12,7 @@ This page will tell you how to change Portfolio content.
 1. Logon to your FTP client (ex, FileZilla)
 2. Go to folder > custom > templates > Aurora
 3. Open the file index.tpl
-4. At line 95 Modify the content inside `Portfolio Card 1` and set it according to you
+4. At line 93 Modify the content inside `Portfolio Card 1` and set it according to you
   ```html
            <div class="eight wide column">
               <div class="ui segment" style="height:100%;">
