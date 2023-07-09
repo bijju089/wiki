@@ -93,7 +93,7 @@ const config = {
             items: [
               {
                 label: 'Aurora Nl2',
-                to: '/docs/aurora/intro',
+                to: '/docs/aurora',
               },
             ],
           },
