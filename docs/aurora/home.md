@@ -1,5 +1,8 @@
 ---
-sidebar_position: 1
+title: Aurora NamelessMC
+slug: /aurora/
+sidebar_position: 0
+sidebar_label: Introduction to Aurora
 ---
 
 # Introduction to Aurora
